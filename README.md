@@ -20,4 +20,4 @@
 
 ## Populated
 - Pasta:
-    - Carbonara
+    - [Carbonara](/recipes/carbonara)
