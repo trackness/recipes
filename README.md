@@ -21,5 +21,3 @@
 ## Populated
 - Pasta:
     - [Carbonara](./recipes/carbonara)
-    - [Carbonara](/recipes/recipes/carbonara)
-    - [Carbonara](https://trackness.github.io/recipes/recipes/carbonara)
