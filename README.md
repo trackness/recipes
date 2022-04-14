@@ -1,5 +1,7 @@
-# recipes
+# Recipes
 
+- Pasta:
+    - [Carbonara](./recipes/carbonara)
 
 ## To populate:
 - Bangers and mash
@@ -17,7 +19,3 @@
 - Fried chicken
 - Steak and peppers
 - Katsu
-
-## Populated
-- Pasta:
-    - [Carbonara](./recipes/carbonara)

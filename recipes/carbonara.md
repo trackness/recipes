@@ -35,4 +35,4 @@
 * 
 
 ## Based on  
-* [SPICY MISO PASTA](https://cravingsbychrissyteigen.com/recipes/spicy-miso-spaghetti/)
+* [Spicy Miso Pasta](https://cravingsbychrissyteigen.com/recipes/spicy-miso-spaghetti/)
