@@ -1,5 +1,7 @@
 # Recipes
 
+[Card test](./recipes/steak-rice-carrots.html)
+
 - Pasta:
     - [Carbonara](./recipes/carbonara)
 
