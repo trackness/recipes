@@ -1,36 +1,51 @@
 
 <!DOCTYPE html>
 <html>
-    <head></head>
+    <head>
+        <link rel="stylesheet" href="node_modules/@dracula/dracula-ui/styles/dracula-ui.css"/>
+    </head>
     <body>
-        <table>
-            <tr>
-                <th colspan="3">Time (minutes)</th>
-                <th rowspan="2">Ingredients</th>
-                <th rowspan="2">Action</th>
-                <th rowspan="2">Output</th>
-            </tr>
-            <tr>
-                <th>Passed</th>
-                <th>Remaining</th>
-                <th>Duration</th>
-            </tr>
-            <tr>
-                <td>0</td>
-                <td>60</td>
-                <td>1</td>
-                <td></td>
-                <td>Pre-heat the oven to 200C.</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>10</td>
-                <td>50</td>
-                <td>10</td>
-                <td>Carrots, 500g</td>
-                <td>Peel, quarter lengthways, and slice into ~1cm segments.</td>
-                <td>Diced carrots</td>
-            </tr>
+        <table class="drac-table">
+            <thead>
+                <tr>
+                    <th class="drac-text drac-text-white" colspan="3">Time (minutes)</th>
+                    <th class="drac-text drac-text-white" rowspan="2">Ingredients</th>
+                    <th class="drac-text drac-text-white" rowspan="2">Action</th>
+                    <th class="drac-text drac-text-white" rowspan="2">Output</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th>Passed</th>
+                    <th>Remaining</th>
+                    <th>Duration</th>
+                </tr>
+                <tr>
+                    <td>0</td>
+                    <td>60</td>
+                    <td>1</td>
+                    <td></td>
+                    <td>Pre-heat the oven to 200C.</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>50</td>
+                    <td>10</td>
+                    <td>Carrots, 500g</td>
+                    <td>Peel, quarter lengthways, and slice into ~1cm segments.</td>
+                    <td>Diced carrots</td>
+                </tr>
+                <tr>
+                    <td>20</td>
+                    <td>40</td>
+                    <td>1</td>
+                    <td>Diced carrots
+                        Olive oil, 2 tbsp</td>
+                    <td>Peel, quarter lengthways, and slice into ~1cm segments.</td>
+                    <td>Diced carrots</td>
+                </tr>
+            </tbody>
         </table>
     </body>
 </html>
